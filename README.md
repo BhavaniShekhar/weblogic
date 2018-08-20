@@ -1,7 +1,7 @@
-# weblogic
+# weblogic - DevOps lab activity
 Weblogic Installation and Configuration
 
-Step 1: Fist create a Weblogic Installation job in jenkins using the Weblogic Installation.sh script here.
+Step 1: First create a Weblogic Installation job in jenkins using the Weblogic Installation.sh script here.
 Note : this job should have 2 string parameters - FMW_VERSION and BASE_HOME (where installation should happen)
 
 Step 2: Configure a domain using file - DomainCreation_Properties.py and create "OPENSTYLE" job with below commands and no parameters-
